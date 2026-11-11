@@ -1,5 +1,5 @@
 {
-  "name": "olivierparent.be",
+  "name": "olivierparent.github.io",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -11,6 +11,7 @@
     "git:wip": "git add . && git commit -a -m [WIP] && git push --set-upstream origin main",
     "github:browse": "gh browse",
     "pnpm:i": "pnpm install",
+    "pnpm:outdated": "pnpm outdated",
     "pnpm:up": "pnpm update --latest --interactive"
   },
   "dependencies": {
